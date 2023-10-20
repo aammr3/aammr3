@@ -14,7 +14,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at SHA Institute of Technology, Cairo
+- 👨🏽‍💻 I’m currently a  Undergrad student at SHA High Institute of Technology, Cairo
 - 🌱 I’m currently exploring Machine Learning with a big interest in Smart Contracts. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [amrelsaeed225@gmail.com].
